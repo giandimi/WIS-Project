@@ -1,2 +1,5 @@
 # WIS-Project
-Project for the creation of a small website by beginners.
+2-page website of CSD
+
+First page is the homepage
+In the second page, user can search for a product or add new one
