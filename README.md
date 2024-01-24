@@ -3,4 +3,4 @@
 
 First page is the homepage
 
-In the second page, user can search for a product or add new one
+In the second page, user can search for a product or add a new one
