@@ -1,0 +1,70 @@
+/* BEGIN CODE HERE */
+.container{
+    max-width: 1200px !important;
+    width: 100%;
+    margin: 0 auto;
+  }
+  .container-frame1{
+    Display: flex;
+    max-height: 400px;
+    height: 100%;
+    min-height: 400px;
+    max-width: 1200px !important;
+    width: 100%;
+    min-width: 1200px;
+    margin: 0 auto;
+  } 
+  .container-frame2{
+    Display: flex;
+    max-height: 400px;
+    height: 100%;
+    min-height: 400px;
+    max-width: 1200px !important;
+    width: 100%;
+    min-width: 1200px;
+    margin: 0 auto;
+  }
+  .container-frame3{
+    Display: flex;
+    max-height: 600px;
+    height: 100%;
+    min-height: 600px;
+    max-width: 1200px !important;
+    width: 100%;
+    min-width: 1200px;
+    margin: 0 auto;
+  } 
+  header{
+    height: 150px;
+    min-width: 1200px;
+    max-height: 100%;
+    margin: 0 auto;
+    overflow: hidden;
+    display: flex;
+  }
+  .container-footer{
+    Display: flex;
+    max-height: 100px;
+    height: 100%;
+    min-height: 100px;
+    max-width: 1200px !important;
+    width: 100%;
+    min-width: 1200px;
+    margin: 0 auto;
+  
+  }
+  .footer-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100px;
+    width: 100%;
+    min-width: 1200px !important;
+
+}
+
+.text-center {
+    text-align: center;
+}
+  
+  /* END CODE HERE */
